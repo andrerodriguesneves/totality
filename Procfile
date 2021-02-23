@@ -1,0 +1,1 @@
+web: gunicorn precatory.wsgi --log-file -
